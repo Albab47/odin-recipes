@@ -1,0 +1,37 @@
+body {
+    width: 70%;
+    max-width: 50rem;
+    margin: .7rem auto;
+    background-color: rgba(255, 192, 133, 0.801);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.7;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.1rem;
+    border: 1px solid sandybrown;
+    background-color: #AB7B2B;
+    color: #fff;
+    margin-top: 2rem;
+}
+
+ul {
+    background-color: #F3F4F6;
+    border-radius: 7px;
+    color: #AB7B2B;
+    padding: 1rem 2rem;
+    box-shadow: 1px 1px 3px white;
+}
+
+ul li {
+    font-size: 1.2rem
+}
+
+ul li a {
+    color: #AB7B2B;
+    text-decoration-color: #AB7B2B;
+    color: #000;
+
+}
